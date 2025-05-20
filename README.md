@@ -106,7 +106,7 @@ Saved selfies are stored locally and displayed on the Home screen.
 
 ## 📸 Demo Video
 
-🔗[`Demo Video (Google Drive)`](https://pub.dev/packages/google_mlkit_face_detection)
+🔗[`Demo Video (Google Drive)`](https://drive.google.com/file/d/1X70hs-XxtNZoUxUZAUT9RLgbAYgr3vO0/view?usp=drive_link)
 
 
 
