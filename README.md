@@ -116,7 +116,7 @@ Contributions are welcome! Feel free to fork the repository and create a pull re
 
 ## Contact
 
-For any questions or feedback, feel free to reach out to [ashahadshaikh0007@gmail.com](mailto:ashahadshaikh0007@gmail.com).
+For any questions or feedback, feel free to reach out to [ravitejmulay93@gmail.com](mailto:ravitejmulay93@gmail.com).
 
 
-### Made with ❤️ by Ashahad Shaikh
+### Made with ❤️ by Ravitej Mulay
