@@ -61,7 +61,7 @@ lib/
 1. **Clone the repository**
    ```bash
    git clone https://github.com/ravitej2005/FaceTrust-Liveness-Detection-App.git
-   cd liveness_detection_task
+   cd FaceTrust-Liveness-Detection-App
 
 2. **Install dependencies**
    ```bash
