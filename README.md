@@ -60,7 +60,7 @@ lib/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/Ashahad07/liveness_detection_task.git
+   git clone https://github.com/ravitej2005/FaceTrust-Liveness-Detection-App.git
    cd liveness_detection_task
 
 2. **Install dependencies**
